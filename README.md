@@ -6,4 +6,4 @@ GameMaker Version: 2022 LTS
 > It actually got upgraded
 
 ---////---////---////---////---////---////---////---</br>
-!! Inspired by burnedpopcorn !!
+!! Inspired by [burnedpopcorn](https://github.com/burnedpopcorn/SONIC.EXE-Decompilation) !!
