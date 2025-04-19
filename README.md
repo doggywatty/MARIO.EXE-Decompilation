@@ -4,3 +4,6 @@ A Decompilation of the Original Mario.exe Game
 
 GameMaker Version: 2022 LTS
 > It actually got upgraded
+
+---////---////---////---////---////---////---////---</br>
+!! Inspired by burnedpopcorn !!
