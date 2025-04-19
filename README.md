@@ -2,7 +2,7 @@
 A Decompilation of the Original Mario.exe Game
 > May God have mercy on my soul
 
-GameMaker Version: 2022 LTS
+GameMaker Version: 1.x
 > It actually got upgraded
 
 ---////---////---////---////---////---////---////---</br>
